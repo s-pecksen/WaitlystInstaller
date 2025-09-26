@@ -1,2 +1,1 @@
-# WaitlystInstaller
-download package for Waitlyst app
+# Waitlyst App - Hold for release files
